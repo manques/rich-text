@@ -1,0 +1,18 @@
+.container{
+
+}
+
+.wrapper-class {
+    background-color: white;
+    height: 50vh;
+}
+.toolbar-class{
+    background-color: green;
+}
+
+.editor-class{
+    background-color: yellow;
+    /* height: 50vh; */
+}
+
+  
